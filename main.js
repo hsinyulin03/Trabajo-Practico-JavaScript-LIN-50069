@@ -1,4 +1,4 @@
-//Acá están todos los ejercicios realizados en un solo script
+//Acá están todos los ejercicios del práctico realizados en un solo script
 /*console.log(' 1- Introducción a Java Script');
 console.log('Ejercicio 1');
 
